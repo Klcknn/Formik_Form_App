@@ -13,7 +13,7 @@
   - [@React Router Dom 6 Document](https://reactrouter.com/en/main/start/overview)
 
 They've all been installed.
-![Uygulama Ekran Görüntüsü](../formik_form_app/src/images/image_1.JPG)
+![Uygulama Ekran Görüntüsü](https://github.com/Klcknn/formik_form_app/blob/v2/src/images/image_1.JPG)
 
 ### Documents :
 - [Formik and Yup Documents [ENG]](https://blog.shahednasser.com/how-to-create-and-validate-forms-in-react-using-formik-and-yup/)
